@@ -1,0 +1,435 @@
+*{margin:0;padding:0;}
+section {
+    padding: 60px 0px;
+}
+
+body{
+	font-family:arial;
+	line-height:25px;
+	font-size:20px;
+	}
+ul#primary-menu li {
+	
+float: left;
+	
+text-transform: uppercase;
+}
+	
+.Container {
+    width: 1349px;
+    margin: auto;
+    overflow: hidden;
+}
+
+
+ul#primary-menu {
+    list-style: none;
+}
+ul#primary-menu li a {
+    text-decoration: none;
+    color: #222;
+    padding: 20px 30px;
+    display: block;
+    font-size: 19px;
+}
+ul#primary-menu li a:hover{
+	background:orange;
+	color:white;
+}
+ul#primary-menu {
+    list-style: none;
+    overflow: hidden;
+    float: right;
+}
+.main {
+    width: 100%;
+    background: #f1f1f1;
+    overflow: hidden;
+    border-bottom: 2px solid orange;
+}
+menu#main-menu {
+    overflow: hidden;
+}
+
+
+.image img {
+    width: 200px;
+    position: absolute;
+}
+
+
+
+
+
+
+.welcome-two {
+   
+    padding: 53px 98px;
+    text-align: center;
+}
+
+h2.welcome-title {
+    font-size: 36px;
+    font-family: -webkit-pictograph;
+    line-height: 37px;
+    color: #41e00e;
+}
+
+span {
+    color: #1748b5b0;
+    font-style: italic;
+    font-family: arial black;
+    line-height: 14px;
+    margin: 18px 26px;
+    padding: 14px;
+}
+
+h4 {}
+
+.welcome-two h4 {
+    font-size: 22px;
+    line-height: 37px;
+    color: #f3efea;
+}
+
+section.welcome {
+    background: #23358675;
+}
+.welcome-two p {
+    line-height: 37px;
+    padding: 30px 29px;
+    margin: 95px 108px;
+}
+.workTitle {
+    text-align: center;
+    margin: 30px;
+    padding: 20px;
+    font-size: 21px;
+}
+.imageShow img {
+    width: 500px;
+    padding: 30px;
+    margin: 30px;
+    height: 330px;
+    border: 1px solid black;
+}
+
+.myWork {
+    float: right;
+    padding: 20px;
+}
+img{
+	max-width:100%;
+}
+
+
+
+.imgTitle {
+    width: 100%;
+    height: 450px;
+    position: relative;
+    display: grid;
+    place-items: center;
+    top: -427px;
+    background: #928a8a;
+    padding: -74px -17px;
+    /* margin: -2px -5px; */
+}
+*/
+
+
+
+
+
+
+
+	
+section#ourGellary {
+    background: #f2f8f9;
+}
+
+.gellaryBox {
+	
+width: 534px;
+	
+float:left;
+	
+margin: -29px;
+	
+position: relative;
+	
+overflow:hidden;
+	
+border-radius:10px;
+	
+padding: 22px 40px;
+	
+margin-top: 20px;
+	
+margin-left: 20px;
+}
+
+.gellaryWrapper {
+    margin-top: 76px;
+    overflow: hidden;
+    /* background: #00000054; */
+    margin-left: 113px;
+}
+
+.box-Over {
+	transform:scale(0);
+	position: absolute;
+	top: 0px;
+	background: #11193da6;
+	width: 88%;
+	color: white;
+	text-align: center;
+	height: 95%;
+	display: grid;
+	place-items: center;
+	transition:0.3s;
+}
+section#color {
+    background: #7d7fc0db;
+}
+
+.img-over {line-height: 32px;}
+
+
+.gellaryBox:hover .box-Over{
+	
+	
+	transform:scale(1);
+}
+
+
+.workTittle {
+    text-align: center;
+    padding: 27px;
+    font-size: 30px;
+    margin: 20px;
+    font-family: monospace
+}
+.workHeading {
+    text-align: center;
+    padding: 17px 0px;
+    margin: 30px;
+    color: #e8dfd3eb;
+    font-weight: 300;
+}
+.service2Contant i {
+    font-size: 45px;
+    padding: 17px;
+    margin: 1px;
+    color: #7f7f7f73;
+}
+.service2Contant {
+    width: 175px;
+    text-align: center;
+    border: 1px solid #bfa6a6;
+    height: 172px;
+    float: left;
+    margin: 52px;
+    padding: 18px;
+    display: block;
+    color: white;
+}
+.service2Contant:hover{
+	color:orange;
+}
+.hello {
+    padding: 10px 3px;
+    text-align: justify;
+}
+.Myheading h1 {
+    padding: 20px 0px;
+    margin: 10px;
+}
+.hello span {
+    color: black;
+}
+.allService2Contant {
+    width: 955px;
+    margin: auto;
+    overflow: hidden;
+}
+.service2Contant:hover{
+	color:orange;
+}
+
+
+
+
+*/
+.contact-title{
+	margin-top:100px;
+	color:#fff;
+	text-transform:uppercase;
+	transition: all 4s ease-in-out;
+	 
+		
+}
+.contact-title h1{
+	
+font-size:32px;
+	
+line-height:10px;
+	
+padding: 19px;
+	
+color: white;
+}
+.contact-title h2 {
+	
+font-size: 24px;
+	
+padding: 10px;
+	
+margin: 10px;
+	
+color: whitesmoke;
+}
+form
+ *{
+	margin-top:50px;
+	transition: all 4s ease-in-out;
+		
+}
+
+.form-control
+ {
+	
+width:680px;
+	
+background:#dcdbe6;
+	
+border:none;
+	
+outline:none;
+	
+border-bottom: 1px solid black;
+	
+color: #2411c3cf;
+	
+font-size:18px;
+	
+margin-bottom:16px;
+}
+input{
+	height:35px;
+	}
+ form .submit
+ {
+	background:#ff5722;
+	border-color:transparent;
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+	letter-spacing: 2px;
+	height:50px;
+	margin-top:20px;
+	
+	
+}
+input.form-control.submit {
+    background: #20bd15d1;
+    border-color:transparent;
+    color:#fff;
+    font-size:20px;
+    font-weight:bold;
+    letter-spacing: 2px;
+    height:50px;
+    margin-top:20px;
+}
+input.form-control.submit:hover{
+	background: #6e36f4a6;
+	cursor:pointer;
+}
+section#contacPage {
+    	text-align:center;
+
+	background:linear-gradient(rgba(0,0,150,0.5),rgba(0,0,50,0.5)),url(924117.jpg);
+	background-size:cover;
+    background-position:center;
+    font-family:sans-serif;	
+
+}
+.footerDegin {
+    font-size: 17px;
+    text-align: justify;
+    margin-top: 46px;
+    padding: 20px;
+    background: #d2c9ba7a;
+}
+.aboutContent {
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+    text-align: justify;
+}
+
+h2.About-h2 {
+    margin: 2px;
+    padding: 12px;
+    border-bottom: 2px solid orange;
+    width: 134px;
+}
+
+.aboutContent p {
+    padding: 10px;
+    line-height: 32px;
+}
+
+section#aboutPage {
+    background: #4444449e;
+}
+.myImage {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+
+
+.myImage img {
+    width: 13%;
+    border-radius: 51%;
+    float: left;
+    height: 144px;
+    padding: 20px;
+}
+ul.footer-Social {
+    display: inline-block;
+    overflow: hidden;
+    font-size: 77px;
+    position: relative;
+    top: 19px;
+}
+
+ul.footer-Social li {
+    display: inline-block;
+    padding: 4px;
+    margin: 7px;
+    font-size: 30px;
+    position: relative;
+} 
+section.footer-section {
+    padding: 0px 0px;
+    background: #cec6b97a;
+}
+span.span-size {
+    padding: 7px 4px;
+    font-size: 21px;
+    font-family: monospace;
+    color: white;
+}
+h3.Contantheader {
+    font-family: initial;
+    font-size: 24px;
+}
+section#Service-Section {
+    background: #272F4F;
+}
+i.fas.fa-layer-group {
+    color: white;
+}
